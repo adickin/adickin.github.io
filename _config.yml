@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Adam Dickin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Site is currently a work in progress."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
