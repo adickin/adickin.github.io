@@ -18,7 +18,7 @@ email: adamdickin(at)gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site of Adam Dickin in Calgary, Alberta, Canada
 github_username: adickin
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
