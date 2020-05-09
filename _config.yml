@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Adam Dickin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Site is currently a work in progress."
+  bio    : "I am a C/C++ developer currently working as a Security Application Developer"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
