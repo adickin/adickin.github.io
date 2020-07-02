@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Adam Dickin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a C/C++ developer currently working as a Security Application Developer"
+  bio    : "I am a C/C++ developer currently working as a Security Application Developer.  In my spare time I love to bike around the city, build new creations in the shop, and play video games if I have the time."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"

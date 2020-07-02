@@ -1,6 +1,6 @@
 ---
 title: "My First Post!"
-date: 2020-05-08
+date: 2020-05-08T17:00:00
 categories:
   - blog
 tags:
